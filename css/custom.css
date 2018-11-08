@@ -1,0 +1,161 @@
+/*! Place your custom styles here */
+
+
+h1 {
+	font-family: NunitoSans-ExtraBold;
+	font-size: 56px;
+	color: #063750;
+	letter-spacing: -2.15px;
+	line-height: 64px;
+}
+h3 {
+	font-family: NunitoSans-ExtraBold;
+	font-size: 32px;
+	color: #063750;
+	letter-spacing: 0;
+	line-height: 38px;
+	font-family: NunitoSans-ExtraBold;
+	}
+h5 {
+	opacity: 0.8;
+	font-family: NunitoSans-Regular;
+	font-size: 24px;
+	font-weight:100;
+	color: #FFFFFF;
+	letter-spacing: 0;
+	text-align: center;
+	line-height: 30px;
+	padding:10% 20%;
+}
+
+p {
+	opacity: 0.8;
+	font-family: NunitoSans-Regular;
+	font-size: 16px;
+	color: #063750!important;
+	letter-spacing: 0;
+	line-height: 36px;
+}
+
+
+/* NAVIGATION*/
+.nav-top {
+	margin-top:.7em;
+}
+
+
+
+.hero-text {
+	font-family: NunitoSans-ExtraBold;
+	font-size: 72px;
+	color: #FFFFFF;
+	letter-spacing: -2.77px;
+	line-height: 80px;
+	padding:150px 0 150px 0;
+}
+@media screen and (max-width: 800px) {
+.hero-text {
+	padding:0;
+}
+.bar .logo {
+  margin-top: 5%;
+  position: relative;
+}
+}
+@media (min-width: 768px) {
+.tab-logo {
+	margin-top:2%!important;
+}
+.tab-ham {
+	padding-bottom:2.5%;
+}
+}
+@media all and (min-width: 480px) and (max-width: 768px) { 
+.tab-logo {
+	margin-top:2%!important;
+}
+.tab-ham {
+	padding-bottom:2.5%;
+}
+}
+
+@media all and (min-width: 480px) and (max-width: 768px) { 
+ul, ol {
+    list-style: none;
+    line-height: 3em;
+}
+}
+@media all and (max-width: 480px) {
+ul, ol {
+    list-style: none;
+    line-height: 3em;
+}
+}
+.hero-sub {
+	font-family: NunitoSans-Italic;
+	font-size: 32px!important;
+	color: #15374E!important;
+	letter-spacing: 0;
+	line-height: 40px;
+	float:right;
+	padding-bottom:10%;
+	}
+
+.features-bg {
+	background: #F6FAFB;
+	border-radius: 6px;
+	padding:10%;
+}
+.feat-text {
+	text-align:left;
+	margin-top:10%;
+	padding-bottom:10%;
+}
+.desc {
+	text-align:left;
+	line-height:normal;
+	margin-top:-5%;
+}
+.what-is-text{
+	visibility: visible;
+    animation-duration: 1.5s;
+    animation-name: fadeInLeft;
+}
+.what-is-img {
+    position: relative;
+	visibility: visible;
+    animation-duration: 2s;
+    animation-name: fadeInRight;
+}
+.bg--download {
+    background: #D9E7EE;
+}
+
+.appstore img{
+	padding-bottom:10px;
+}
+.bg--footer {
+    background: #434545;
+}
+.type--fine-print {
+	color:#A1A2A2!important;
+	font-size:11px;
+	font-family: NunitoSans-SemiBold;
+	letter-spacing: 1.1px;
+}
+.follow {
+	color: #ffffff;
+	font-weight:600;
+	font-family: NunitoSans-SemiBold;	
+	font-size: 12px;
+	letter-spacing: 1.1px;
+}
+
+.footer-logo {
+	padding-bottom:4%;
+}
+.list--hover {
+	padding-bottom:40px;
+}
+
+
